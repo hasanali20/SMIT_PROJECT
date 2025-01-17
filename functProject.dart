@@ -1,12 +1,5 @@
 import 'dart:io';
 displayStudent(List studentData){
-    
-    // List studentData=[
-    //     {'name' : 'talha','rollno' : 25},
-    //     {'name' : 'samad','rollno' : 44},
-    //     {'name' : 'ali','rollno' : 10},
-    //     {'name' : 'bilal','rollno' : 38}
-    //     ];
         
         print(studentData);
 }
